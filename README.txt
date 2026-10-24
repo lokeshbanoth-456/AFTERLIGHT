@@ -84,7 +84,7 @@ Extract the ZIP, then double-click index.html in Chrome, Edge, Firefox or Safari
 14. SUBMISSION REMINDER
 The prototype ZIP is one deliverable. The case study PDF is a separate required deliverable, using the prescribed template and assignment constraints. Do not present this README as the required PDF.
 
-FILES
+FILES_
 index.html — UI and screen content
 style.css — visual design and responsive layout
 script.js — sample data, requests, matching, simulated handovers and simulator
